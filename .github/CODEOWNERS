@@ -1,0 +1,4 @@
+*            @org/dev-team
+/frontend/   @org/frontend-team/
+/backend/    @org/backend-team/
+README.md    @docs-team
